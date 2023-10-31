@@ -1,50 +1,48 @@
 ---
 sidebar_position: 1
+label: "Giới thiệu"
 ---
-<!-- kẻ ngang mỏng -->
 
-# Tutorial Intro
-<!-- size chữ -->
+# Giới thiệu
 
-Let's discover _Docusaurus in less than 5 minutes_.
-<!-- nghiêng -->
-## Getting Started
+## I. Về chúng tôi 
 
-Get started by **creating a new site**.
-<!-- Bold -->
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+```
+Trực thuộc Công ty cổ phần bán lẻ kỹ thuật số FPT – thành viên Tập đoàn FPT, hệ thống Nhà thuốc FPT Long Châu là một trong những chuỗi bán lẻ dược phẩm uy tín tại Việt Nam. Với hơn 1000 Nhà thuốc tại hơn 63 tỉnh thành (cuối năm 2022), FPT Long Châu chuyên cung cấp đa dạng các loại thuốc kê đơn, không kê đơn, các sản phẩm thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm và nhiều sản phẩm chăm sóc sức khoẻ, tiêu dùng hàng ngày,....
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## II. Sứ mệnh
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Hệ thống Nhà thuốc FPT Long Châu luôn mong muốn được chăm sóc, phục vụ sức khỏe cộng đồng với chất lượng tốt nhất và giá cả hợp lý.
 
-## Start your site
+## III. Giá trị cốt lõi
 
-Run the development server:
+1. Chất lượng tốt - Uy tín hàng đầu
 
-```bash
-cd my-website
-npm run start
-```
+Tất cả các Nhà thuốc trực thuộc hệ thống đều đạt chuẩn Thực hành thuốc tốt – GPP, với đội ngũ dược sĩ có chuyên môn và giàu kinh nghiệm.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Cam kết tư vấn cho khách hàng theo tiêu chí 4 đúng:
 
-The `npm run start` command builds your website locally and serves  it through a development server, ready for you to view at http://localhost:3000/.
+- Đúng thuốc
+- Đúng liều
+- Đúng cách
+- Đúng giá
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Tất cả thuốc và sản phẩm tại chuỗi nhà thuốc FPT Long Châu đều được nhập từ chính hãng, được kiểm soát chất lượng theo quy trình chặt chẽ và bán đúng với giá niêm yết.
+
+2. Khách hàng là trọng tâm
+
+Nhà thuốc FPT Long Châu không ngừng cải thiện chất lượng dịch vụ từ những điều nhỏ nhất, nhằm nâng cao trải nghiệm khách hàng, đem lại sự hài lòng nhất cho Quý khách.
+
+- Tư vấn thuốc nhanh
+- Hỗ trợ đổi trả cho các đơn hàng trong vòng 30 ngày
+- Giao hàng tận nơi
+
+## IV. Cột mốc hoạt động
+
+- Năm 2022: Vượt mốc 1000 nhà thuốc tại 63 tỉnh thành trên toàn quốc
+- Năm 2021: Vượt mốc 400 nhà thuốc tại 53 tỉnh thành trên toàn quốc
+- Năm 2020: Vượt mốc 200 nhà thuốc tại 50 tỉnh thành trên toàn quốc
+- Năm 2019: Mở rộng quy mô với 32 nhà thuốc tại 5 tỉnh thành
+- Năm 2017: Chính thức trực thuộc tập đoàn FPT với 8 nhà thuốc tại TP.HCM
+- Năm 2007: Thành lập với kinh nghiệm gần 20 năm trong ngành bán lẻ dược phẩm
