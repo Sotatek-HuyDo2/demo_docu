@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 8
 ---
 
 # Chính sách thu nhập và xử lý dữ liệu cá nhân 
