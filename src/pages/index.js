@@ -31,10 +31,17 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+      <div className={styles.homepage}>
+        <div className={styles.subheader}>
+          <h1 className={styles.hero__title}>{siteConfig.title}</h1>
+          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <div className={styles.buttons}>
+            <a className="button button--secondary button--lg" href="#">
+              Pharmacy Home Page ⏱️
+            </a>
+          </div>
+        </div>
+      </div>
     </Layout>
   );
 }
