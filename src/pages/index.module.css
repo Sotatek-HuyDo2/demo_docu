@@ -17,7 +17,7 @@
 }
 
 .homepage{
-  background-image: url(https://storage.googleapis.com/hust-files/2021-11-15/5807675312963584/background-new-page_.9m.jpeg);
+  background-image: url(../../static/img/background-new-page.jpeg);
   background-size: cover; /* Để hình nền bao phủ toàn bộ phần nền */
   background-repeat: no-repeat; /* Không lặp lại hình nền */
   background-position: center center;
@@ -35,7 +35,7 @@
   position: relative;
   overflow: hidden;
   background: none;
-  background-image: url(https://qldt.hust.edu.vn/images/newPage/background-header.png);
+  background-image: url(../../static/img/background-header.png);
   background-size: cover; /* Để hình nền bao phủ toàn bộ phần nền */
   background-repeat: no-repeat; /* Không lặp lại hình nền */
   background-position: center center;
