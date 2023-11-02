@@ -67,7 +67,7 @@ const config = {
         title: "Pharmacy",
         logo: {
           alt: "Pharmacy Logo",
-          src: "img/logo.svg",
+          src: "img/favicon.ico",
         },
         items: [
           {
