@@ -35,7 +35,7 @@
   position: relative;
   overflow: hidden;
   background: none;
-  background-image: url('https://qldt.hust.edu.vn/images/newPage/background-header.png');
+  background-image: url(https://qldt.hust.edu.vn/images/newPage/background-header.png);
   background-size: cover; /* Để hình nền bao phủ toàn bộ phần nền */
   background-repeat: no-repeat; /* Không lặp lại hình nền */
   background-position: center center;
