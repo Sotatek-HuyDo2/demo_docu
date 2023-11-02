@@ -36,7 +36,10 @@ export default function Home() {
           <h1 className={styles.hero__title}>{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
-            <a className="button button--secondary button--lg" href="#">
+            <a
+              className="button button--secondary button--lg"
+              href="https://pharmacy-hust.vercel.app/"
+            >
               Pharmacy Home Page ⏱️
             </a>
           </div>
