@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+sidebar_label: "Quy chế hoạt động website"
 ---
 
-# Quy chế hoạt động website 
+# Quy chế hoạt động website cung cấp dịch vụ TMĐT Nhathuoclongchau.com.vn
 
 ## I. Nguyên tắc chung
 Website thương mại điện tử Nhathuoclongchau.com.vn do Công ty Cổ phần dược phẩm FPT Long Châu (“Công ty”) thực hiện hoạt động và vận hành. Đối tượng phục vụ là tất cả khách hàng trên 63 tỉnh thành Việt Nam có nhu cầu mua hàng nhưng không có thời gian đến shop hoặc đặt trước để khi đến shop là đảm bảo có hàng.

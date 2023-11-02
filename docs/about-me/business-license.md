@@ -1,11 +1,10 @@
 ---
 sidebar_position: 1
-sidebar_title: "Giấy phép kinh doanh"
-sidebar_label: "Giấy phép kinh doanhádas"
-
+sidebar_label: "Giấy phép kinh doanh"
 ---
 
-# Giấy phép kinh doanh
+# Thông tin GPKD Nhà thuốc Long Châu
+
 ***Thông tin GPKD***
 
 | Tên ĐĐKD     | Giấy chứng nhận thực hành tốt cơ sở bán lẻ  | Giấy chứng nhận đủ ĐKKD dược     |
