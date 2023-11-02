@@ -17,9 +17,9 @@
 }
 
 .homepage{
-  background-image: url(../../static/img/background-new-page.jpeg);
-  background-size: cover; /* Để hình nền bao phủ toàn bộ phần nền */
-  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  background: url(../../static/img/background-new-page.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat; 
   background-position: center center;
   height: 900px;
   text-align: center;
@@ -36,7 +36,7 @@
   overflow: hidden;
   background: none;
   background-image: url(../../static/img/background-header.png);
-  background-size: cover; /* Để hình nền bao phủ toàn bộ phần nền */
-  background-repeat: no-repeat; /* Không lặp lại hình nền */
+  background-size: cover;
+  background-repeat: no-repeat; 
   background-position: center center;
 }
