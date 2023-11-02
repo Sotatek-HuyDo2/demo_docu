@@ -16,27 +16,22 @@
   justify-content: center;
 }
 
-.homepage{
-  background: url(../../static/img/background-new-page.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat; 
-  background-position: center center;
+.homepage {
+  background: 
+    url(../../static/img/background-new-page.jpeg) center center / cover no-repeat,
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)); /* You can add other background definitions here */
   height: 900px;
   text-align: center;
   position: relative;
   overflow: hidden;
   color: #fff;
-  
 }
 
-.subheader{
+.subheader {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: none;
-  background-image: url(../../static/img/background-header.png);
-  background-size: cover;
-  background-repeat: no-repeat; 
-  background-position: center center;
+  background: 
+    url(../../static/img/background-header.png) center center / cover no-repeat;
 }
